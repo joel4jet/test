@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ed7e986-2b81-462b-baaa-6a0f48af5c29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Data project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.sas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing1212.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing1212.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing1212.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,9 +105,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/1920.-387.1080.1880/-1920.15.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579897272207" />
-    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579898014432">
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579898211582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/1920.-387.1080.1880/-1920.15.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579898014432" />
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/1920.-387.1080.1880/-1920.15.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579898211582" />
   </component>
 </project>
