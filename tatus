@@ -1,0 +1,61 @@
+[33mcommit f6b963ca6d34bc9d36828380f4e70afbfbb32539[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 16:50:28 2020 -0500
+
+    adding a readme
+
+[33mcommit c082d9d1212861a229c6dcdde539ceea626eb697[m
+Merge: 56311d9 232f025
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 16:39:52 2020 -0500
+
+    Merge branch 'login'
+    added login
+
+[33mcommit 232f025ae50ec5714039af44274b510dc6641acb[m[33m ([m[1;32mlogin[m[33m)[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 16:38:44 2020 -0500
+
+    trying branch
+
+[33mcommit 56311d9a620399e2e36d64ed473f783408df8e8d[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 16:35:35 2020 -0500
+
+    iow
+
+[33mcommit 03b1eeb3d505ec73a29b71d962edc05ef3b1c19d[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 16:33:42 2020 -0500
+
+    ignore log.txt
+
+[33mcommit 3c627fa44cb02c9a042fe3cdf39b785dfc910659[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 16:32:37 2020 -0500
+
+    okok
+
+[33mcommit 1cc78c519162c24c9c3afd2fcc324bf7d6d001b8[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 16:23:31 2020 -0500
+
+    test
+
+[33mcommit c4ca9f3b1f61be31c21cf82366d0c4fa0f8c9edc[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 16:17:15 2020 -0500
+
+    testing 123
+
+[33mcommit 2f3ddca0a3f46459def031c93dce4be43ef649f5[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 15:38:17 2020 -0500
+
+    Changed python file
+
+[33mcommit 63d01ea7ca5fb5b3bc7f65d87823131e2d8015f4[m
+Author: Joel Forget <joel.forget@icloud.com>
+Date:   Fri Jan 24 15:35:03 2020 -0500
+
+     Initial commit
